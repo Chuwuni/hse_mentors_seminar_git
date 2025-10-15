@@ -1,3 +1,3 @@
 # Ready
-# text for conflict v1
+# text for conflict v2
 add
